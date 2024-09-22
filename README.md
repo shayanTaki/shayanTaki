@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/512343c1-0d64-4a93-9500-a4f583a8529b)<h1>SHAYAN TAKI | Full-stack Python developer </h1>
+<h1>SHAYAN TAKI | Full-stack Python developer </h1>
 <p>I started with Linux at the age of sixteen and I am still in love with this operating system.</p>
 <P>I didn't start for money or wealth; I became a programmer to build my dreams.</P>
 <h2>My Skills</h2>
