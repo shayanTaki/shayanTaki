@@ -33,4 +33,5 @@
 <h3>Contact:</h3>
 <ul>
   <li><strong>Telegram:</strong> <a href="https://t.me/shayanm13">Connect with me</a></li>
+  <li><strong>Linkedin:</strong> <a href="www.linkedin.com/in/shayan-taki">Connect with me</a></li>
 </ul>
